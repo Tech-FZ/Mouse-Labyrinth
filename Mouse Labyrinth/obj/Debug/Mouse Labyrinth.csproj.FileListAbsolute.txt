@@ -1,0 +1,35 @@
+C:\Users\edv2\Desktop\Mouse Labyrinth\Mouse Labyrinth\bin\Debug\Mouse Labyrinth.exe.config
+C:\Users\edv2\Desktop\Mouse Labyrinth\Mouse Labyrinth\bin\Debug\Mouse Labyrinth.exe
+C:\Users\edv2\Desktop\Mouse Labyrinth\Mouse Labyrinth\bin\Debug\Mouse Labyrinth.pdb
+C:\Users\edv2\Desktop\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse Labyrinth.csproj.AssemblyReference.cache
+C:\Users\edv2\Desktop\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\MainWindow.g.cs
+C:\Users\edv2\Desktop\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\App.g.cs
+C:\Users\edv2\Desktop\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse Labyrinth_MarkupCompile.cache
+C:\Users\edv2\Desktop\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse Labyrinth_MarkupCompile.lref
+C:\Users\edv2\Desktop\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\MainWindow.baml
+C:\Users\edv2\Desktop\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse Labyrinth.g.resources
+C:\Users\edv2\Desktop\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse_Labyrinth.Properties.Resources.resources
+C:\Users\edv2\Desktop\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse Labyrinth.csproj.GenerateResource.cache
+C:\Users\edv2\Desktop\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse Labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\edv2\Desktop\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse Labyrinth.exe
+C:\Users\edv2\Desktop\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse Labyrinth.pdb
+C:\Users\edv2\Desktop\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\HighscoreWindow.g.cs
+C:\Users\edv2\Desktop\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\HighscoreWindow.baml
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\bin\Debug\Mouse Labyrinth.exe.config
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\bin\Debug\Mouse Labyrinth.exe
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\bin\Debug\Mouse Labyrinth.pdb
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse Labyrinth.csproj.AssemblyReference.cache
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse Labyrinth.csproj.SuggestedBindingRedirects.cache
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\HighscoreWindow.g.cs
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\MainWindow.g.cs
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\App.g.cs
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse Labyrinth_MarkupCompile.cache
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse Labyrinth_MarkupCompile.lref
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\HighscoreWindow.baml
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\MainWindow.baml
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse Labyrinth.g.resources
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse_Labyrinth.Properties.Resources.resources
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse Labyrinth.csproj.GenerateResource.cache
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse Labyrinth.csproj.CoreCompileInputs.cache
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse Labyrinth.exe
+D:\Nicos Code\Visual Studio Projects\Mouse Labyrinth\Mouse Labyrinth\obj\Debug\Mouse Labyrinth.pdb
